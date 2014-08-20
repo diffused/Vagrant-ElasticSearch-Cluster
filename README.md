@@ -2,14 +2,14 @@
 
 What you get:
 * 3 ubuntu precise32 instances using 1024mb ram
-** es1 - 192.168.50.20
-** es2 - 192.168.50.21
-** es3 - 192.168.50.22
-* OracleJDK
+ * es1 - 192.168.50.20
+ * es2 - 192.168.50.21
+ * es3 - 192.168.50.22
+* OracleJDK (silent install)
 * Elasticsearch
-** Marvel plugin
-** geohash-facet plugin
-** head plugin
+ * Marvel plugin
+ * geohash-facet plugin
+ * head plugin
 
 ## Pre-requisites
 * Virtualbox
